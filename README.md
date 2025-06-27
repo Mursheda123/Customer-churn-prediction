@@ -31,7 +31,7 @@ The dataset contains customer information such as:
 ---
 
 ## 🧪 Models Use
-|----------------------
+
 | ✅ Random Forest      
 | Decision Tree         
 | XGBoost               
