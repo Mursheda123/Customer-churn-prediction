@@ -60,5 +60,6 @@ The ROC curve shows the model’s performance across all classification threshol
 
 ## 🧪 Confusion Matrix (Random Forest)
 [[304 161]
+
  [ 83 478]]
 
